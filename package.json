@@ -1,0 +1,24 @@
+{
+	"name": "hapi-web-server",
+	"version": "1.0.0",
+	"description": "Hapi web server dicoding",
+	"main": "index.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kennarddh/hapi-web-server-dicoding.git"
+	},
+	"keywords": [
+		"nodejs",
+		"web-server",
+		"javascript"
+	],
+	"author": "kennarddh",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/kennarddh/hapi-web-server-dicoding/issues"
+	},
+	"homepage": "https://github.com/kennarddh/hapi-web-server-dicoding#readme"
+}
