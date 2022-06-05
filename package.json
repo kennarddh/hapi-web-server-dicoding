@@ -13,7 +13,8 @@
 	"keywords": [
 		"nodejs",
 		"web-server",
-		"javascript"
+		"javascript",
+		"hapi"
 	],
 	"author": "kennarddh",
 	"license": "MIT",
