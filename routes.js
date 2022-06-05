@@ -50,6 +50,16 @@ const routes = [
 		},
 	},
 	{
+		method: 'POST',
+		path: '/user',
+		handler: (request, h) => {
+			return h
+				.response('success')
+				.type('text/plain')
+				.header('X-Custom', 'some-value')
+		},
+	},
+	{
 		method: '*',
 		path: '/{any*}',
 		handler: (request, h) => {
